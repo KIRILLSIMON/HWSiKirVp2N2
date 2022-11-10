@@ -67,7 +67,7 @@ if (age<5) {
         System.out.println("Дениса  - " + PererashodDlyD);
         System.out.println("Кристину  - " + PererashodDlyK);
         System.out.println("P.S.: и не забудьте доп.перерасход на Корвалол/Валокардин-для главбуха с шефом!");*/
-System.out.println("Решение последней 3й задачи по ч.1 УО");
+System.out.println("okonchatelnoye Решение последней 3й задачи по ч.1 УО");
 int one=1;
 int two=2;
 int three=5;
